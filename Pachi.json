@@ -38,5 +38,13 @@
         "expirydate": "15-12-2026",
         "Allowoffline": false,
         "banned": false
+    },
+    {
+        "device_id": "efd85a21edbc71f2",
+        "username": "user7",
+        "password": "CHANGE_ME",
+        "expirydate": "15-12-2026",
+        "Allowoffline": false,
+        "banned": false
     }
 ]
