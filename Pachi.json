@@ -1,350 +1,42 @@
-
 [
     {
-        "device_id": "global",
-        "maintenance": false,
-        "announcement": "Welcome to Zaid Mods!",
-        "features": {
-            "mapHack": true,
-            "holowear": true,
-            "liveScore": true,
-            "droneView": true
-        }
-    },
-    {
-        "device_id": "c4828b2c6e46a03523793b87901ad77d0de4e0c01e2d54c92ee9371b58d21a88",
+        "device_id": "device123",
         "username": "user1",
         "password": "pass123",
-        "expirydate": "16-10-2026",
+        "expirydate": "31-12-2025",
         "Allowoffline": true,
-        "enabled": true,
-        "features": {
-            "mapHack": true,
-            "holowear": true,
-            "liveScore": true,
-            "droneView": true
-        }
-    },
-    {
-        "device_id": "de4526f9c96b235a7736e817926562233dad66ed2a4f056b24201b18d0d760d9",
-        "username": "user2",
-        "password": "pass456",
-        "expirydate": "15-09-2026",
-        "Allowoffline": false,
-        "enabled": true,
-        "features": {
-            "mapHack": true,
-            "holowear": true,
-            "liveScore": true,
-            "droneView": true
-        }
-    },
-    {
-        "device_id": "7e83322d7616d08ce87d52e5ae5bf56bcd035234fee9e8f6a92145b030a829a9",
-        "username": "user123",
-        "password": "pass789",
-        "expirydate": "6-09-2026",
-        "Allowoffline": false,
-        "enabled": true,
-        "features": {
-            "mapHack": true,
-            "holowear": true,
-            "liveScore": true,
-            "droneView": true
-        }
-    },
-    {
-        "device_id": "2854fff8189f4d49a3789d31eeeafce2092130b02f016b02733804caf69d879c",
-        "username": "user4",
-        "password": "pass1011",
-        "expirydate": "15-09-2026",
-        "Allowoffline": false,
-        "enabled": true,
-        "features": {
-            "mapHack": true,
-            "holowear": true,
-            "liveScore": true,
-            "droneView": true
-        }
+        "banned": false
     },
     {
         "device_id": "b4ebb9a38a4d2bc1",
+        "username": "user3",
+        "password": "pass456",
+        "expirydate": "15-12-2026",
+        "Allowoffline": false,
+        "banned": false
+    },
+    {
+        "device_id": "52fa03f002a5ba2f",
+        "username": "user4",
+        "password": "pass789",
+        "expirydate": "15-12-2026",
+        "Allowoffline": false,
+        "banned": false
+    },
+    {
+        "device_id": "ca73c066e842e853",
         "username": "user5",
-        "password": "pass1213",
+        "password": "pass101",
         "expirydate": "15-12-2026",
         "Allowoffline": false,
-        "enabled": true,
-        "features": {
-            "mapHack": true,
-            "holowear": true,
-            "liveScore": true,
-            "droneView": true
-        }
+        "banned": false
     },
     {
-        "device_id": "c1168139164026a9a974f8e0f590fb30fc457043c9a5027b25d7e696c7138596",
+        "device_id": "9b92751b1b635a72",
         "username": "user6",
-        "password": "pass1415",
-        "expirydate": "15-09-2026",
-        "Allowoffline": false,
-        "enabled": true,
-        "features": {
-            "mapHack": true,
-            "holowear": true,
-            "liveScore": true,
-            "droneView": true
-        }
-    },
-    {
-        "device_id": "c48f30ee8316359e3b445b72b7f346316918ca768c8edc682a37435d1903e292",
-        "username": "user69",
-        "password": "pass69",
-        "expirydate": "17-11-2026",
-        "Allowoffline": false,
-        "enabled": true,
-        "features": {
-            "mapHack": true,
-            "holowear": true,
-            "liveScore": true,
-            "droneView": true
-        }
-    },
-    {
-        "device_id": "9370f613cf19b5842fff3cd5068a7d0ae131388c14e76598d9529eba0406e01e",
-        "username": "user7",
-        "password": "pass1819",
-        "expirydate": "15-11-2026",
-        "Allowoffline": false,
-        "enabled": true,
-        "features": {
-            "mapHack": true,
-            "holowear": true,
-            "liveScore": true,
-            "droneView": true
-        }
-    },
-    {
-        "device_id": "fd2c1bacdc4698cbfd126aaaeee974dc3a565affe0007170e5f38b1585023ef6",
-        "username": "user8",
-        "password": "pass2021",
-        "expirydate": "15-11-2026",
-        "Allowoffline": false,
-        "enabled": true,
-        "features": {
-            "mapHack": true,
-            "holowear": true,
-            "liveScore": true,
-            "droneView": true
-        }
-    },
-    {
-        "device_id": "73350e52e1e54efd236b93e25af79c9e06235efbd863cb85d007f5e7aca1c25d",
-        "username": "Bush",
-        "password": "kalagenda",
+        "password": "pass202",
         "expirydate": "15-12-2026",
         "Allowoffline": false,
-        "enabled": true,
-        "features": {
-            "mapHack": true,
-            "holowear": true,
-            "liveScore": true,
-            "droneView": true
-        }
-    },
-    {
-        "device_id": "e0822c437961731562003298492d34c55688304bab5a864e608170fc288b8838",
-        "username": "user9",
-        "password": "pass2223",
-        "expirydate": "15-11-2026",
-        "Allowoffline": false,
-        "enabled": true,
-        "features": {
-            "mapHack": true,
-            "holowear": true,
-            "liveScore": true,
-            "droneView": true
-        }
-    },
-    {
-        "device_id": "568bbb67b72249351718e7ce8819950efb5dce86fa2ecc84886373718b7f27b6",
-        "username": "user11",
-        "password": "pass2425",
-        "expirydate": "15-12-2026",
-        "Allowoffline": false,
-        "enabled": true,
-        "features": {
-            "mapHack": true,
-            "holowear": true,
-            "liveScore": true,
-            "droneView": true
-        }
-    },
-    {
-        "device_id": "b2eb7a6aa1af7698cec06109a0def04374bf264249c7b3c8a0beac8ee778bade",
-        "username": "user12",
-        "password": "pass2627",
-        "expirydate": "15-11-2026",
-        "Allowoffline": false,
-        "enabled": true,
-        "features": {
-            "mapHack": true,
-            "holowear": true,
-            "liveScore": true,
-            "droneView": true
-        }
-    },
-    {
-        "device_id": "dd8b14b25d1c4a220378450520fffa36ac9424c686ce5130f8f9c8be59ebde4f",
-        "username": "user13",
-        "password": "pass2829",
-        "expirydate": "16-10-2026",
-        "Allowoffline": false,
-        "enabled": true,
-        "features": {
-            "mapHack": true,
-            "holowear": true,
-            "liveScore": true,
-            "droneView": true
-        }
-    },
-    {
-        "device_id": "f84c8c5b57b6a390993c12f520c5662f6ffb6a081956ce2636d38af5fa7a877d",
-        "username": "user14",
-        "password": "pass3031",
-        "expirydate": "15-11-2026",
-        "Allowoffline": false,
-        "enabled": true,
-        "features": {
-            "mapHack": true,
-            "holowear": true,
-            "liveScore": true,
-            "droneView": true
-        }
-    },
-    {
-        "device_id": "9c04bb4038df7668321dd0d72c11a82ea3e0bdddea3948c280a6e37a73997d23",
-        "username": "user15",
-        "password": "pass3233",
-        "expirydate": "15-11-2026",
-        "Allowoffline": false,
-        "enabled": true,
-        "features": {
-            "mapHack": true,
-            "holowear": true,
-            "liveScore": true,
-            "droneView": true
-        }
-    },
-    {
-        "device_id": "be7d8646e711cd6e46b72cdc3e2591ff2e949b8545bf4f68976550ce894c4167",
-        "username": "user16",
-        "password": "pass3435",
-        "expirydate": "30-10-2026",
-        "Allowoffline": false,
-        "enabled": true,
-        "features": {
-            "mapHack": true,
-            "holowear": true,
-            "liveScore": true,
-            "droneView": true
-        }
-    },
-    {
-        "device_id": "e92c353bd919c516615c0933785b2d438625ef67fba8ef05bcb0aff8a6dff987",
-        "username": "user17",
-        "password": "pass3637",
-        "expirydate": "30-10-2026",
-        "Allowoffline": false,
-        "enabled": true,
-        "features": {
-            "mapHack": true,
-            "holowear": true,
-            "liveScore": true,
-            "droneView": true
-        }
-    },
-    {
-        "device_id": "68d99f1e28fb80da986445af251ee7a34f0916c95bfd0caa5ce571ddf4ad44ba",
-        "username": "6767",
-        "password": "6969",
-        "expirydate": "20-10-2026",
-        "Allowoffline": false,
-        "enabled": true,
-        "features": {
-            "mapHack": true,
-            "holowear": true,
-            "liveScore": true,
-            "droneView": true
-        }
-    },
-    {
-        "device_id": "46420092b56e5374ef6e27d385f1946b33449cb4f4a4f5011aaf95cb613b3c28",
-        "username": "user18",
-        "password": "pass3839",
-        "expirydate": "25-10-2026",
-        "Allowoffline": false,
-        "enabled": true,
-        "features": {
-            "mapHack": true,
-            "holowear": true,
-            "liveScore": true,
-            "droneView": true
-        }
-    },
-    {
-        "device_id": "53383d50b17aa61bcdcd777e7f0cb1b0a61eb233321bd3ebab0998c0bc13213b",
-        "username": "chut69",
-        "password": "lund67",
-        "expirydate": "20-11-2026",
-        "Allowoffline": false,
-        "enabled": true,
-        "features": {
-            "mapHack": true,
-            "holowear": true,
-            "liveScore": true,
-            "droneView": true
-        }
-    },
-    {
-        "device_id": "2a51dc5674832241710b4cb24701c70d2bea9f514ae27ad9b5e733d7fe16337b",
-        "username": "8729",
-        "password": "6518",
-        "expirydate": "30-10-2026",
-        "Allowoffline": false,
-        "enabled": true,
-        "features": {
-            "mapHack": true,
-            "holowear": true,
-            "liveScore": true,
-            "droneView": true
-        }
-    },
-    {
-        "device_id": "1f292317cc1e72c866318090480dd6b0207789262464b14cf3db628f91d6859d",
-        "username": "user19",
-        "password": "CHANGE_ME_19",
-        "expirydate": "15-12-2026",
-        "Allowoffline": false,
-        "enabled": true,
-        "features": {
-            "mapHack": true,
-            "holowear": true,
-            "liveScore": true,
-            "droneView": true
-        }
-    },
-    {
-        "device_id": "756be6c9d171ec9e2bf986d7d80d5347e7d0df72ea47fc103037079a85ff2b67",
-        "username": "user20",
-        "password": "CHANGE_ME_20",
-        "expirydate": "15-12-2026",
-        "Allowoffline": false,
-        "enabled": true,
-        "features": {
-            "mapHack": true,
-            "holowear": true,
-            "liveScore": true,
-            "droneView": true
-        }
+        "banned": false
     }
 ]
